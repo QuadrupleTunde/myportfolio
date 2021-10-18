@@ -1,0 +1,46 @@
+.good-bg{
+ background-color: rgb(90, 155, 144);
+ 
+
+}
+
+.biggy-bg{
+    color: rgb(7, 133, 24); background-color:rgb(191, 230, 173);
+}
+
+.big-bg {
+    color: rgb(19, 1, 14)
+}
+
+.goody-bg {color:rgb(216, 25, 25);
+    font-family: Cambria;
+}
+
+p {color: rgb(61, 8, 82)
+}
+
+#nav{
+    
+    border: 2px solid rgba(255, 47, 161, 0.075);
+    background:rgb(0, 17, 29);
+    color: white;
+    
+
+}
+.text{display:inline-block;
+    margin: 30px;
+
+
+}
+
+#joy-p{
+    color: white;
+
+}
+
+#flexboy{
+    float: left;
+    
+    
+}
+
